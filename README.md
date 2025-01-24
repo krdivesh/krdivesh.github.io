@@ -1,2 +1,3 @@
 Welcome to my personal website 
-Url: https://krdivesh.github.io/
+
+https://krdivesh.github.io/
