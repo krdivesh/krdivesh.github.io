@@ -1,7 +1,7 @@
 ---
 title: AI Coding Guidelines - Navigating Development in the LLM Era
 date: 2025-06-14 18:30:00
-categories: [Technology, Development, AI]
+categories: [Technology, AI]
 tags: [ai, development]     # TAG names should always be lowercase
 ---
 
