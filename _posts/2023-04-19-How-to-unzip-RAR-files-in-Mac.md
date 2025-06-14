@@ -2,7 +2,7 @@
 title: How to Unzip RAR Files in Mac
 date: 2023-04-19 12:00:00 +0530
 categories: [Technology, Tutorials]
-tags: [mac, compression, tutorial]     # TAG names should always be lowercase
+tags: [mac, tutorial]     # TAG names should always be lowercase
 ---
 
 ## The RAR Challenge on macOS
